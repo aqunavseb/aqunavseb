@@ -1,16 +1,80 @@
-## Hi there 👋
+<div align="center">
+  <h3>Computer Engineer | Data Analytics, Process Automation & Backend Development</h3>
+  <p align="center">
+    Computer Engineer focused on <b>data modeling & ETL processes (SQL, PL/SQL, BI)</b>, <b>workflow automation (n8n, APIs, AI orchestration)</b>, and <b>backend development (Python, Node.js, TypeScript)</b>. Passionate about cloud deployments, containerization, and home automation systems.
+  </p>
+  
+  <p align="center">
+    <a href="mailto:navarrete.sebastian@protonmail.com">
+      <img src="https://img.shields.io/badge/Email-navarrete.sebastian%40protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-<!--
-**aqunavseb/aqunavseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>Tech Stack & Tools</h3>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h4>Data, Databases & Business Intelligence</h4>
+  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</div>
+
+<div align="center">
+  <h4>Automation, Cloud & Infrastructure</h4>
+  <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</div>
+
+<div align="center">
+  <h4>Languages & Frameworks</h4>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+<div align="center">
+  <h4>Architecture, Management & Documentation</h4>
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white">
+  <img src="https://img.shields.io/badge/UML-FABD14?logo=uml&logoColor=000&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
+</div>
+
+---
+
+<div align="center">
+  <h3>Certifications</h3>
+</div>
+  
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/1cd4a045-8ff5-4bb7-90e1-2ef75f465b8f/public_url" target="_blank">
+        <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/0c7a3162-6fdd-4ff2-9094-893abca3ca7e/public_url" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" width="150px">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/3715180d-750a-44d3-a68d-261ff64ada4a/public_url" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="150px">
+      </a>
+    </td>
+  </tr>
+</table>
