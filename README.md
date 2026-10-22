@@ -6,7 +6,7 @@
   
   <p align="center">
     <a href="mailto:se.navarrete@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-se.navarrete%40protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-se.navarrete%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
